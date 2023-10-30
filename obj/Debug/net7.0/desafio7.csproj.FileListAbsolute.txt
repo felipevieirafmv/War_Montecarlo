@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\desafio7\bin\Debug\net7.0\desafio7.exe
+C:\Users\disrct\Desktop\desafio7\bin\Debug\net7.0\desafio7.deps.json
+C:\Users\disrct\Desktop\desafio7\bin\Debug\net7.0\desafio7.runtimeconfig.json
+C:\Users\disrct\Desktop\desafio7\bin\Debug\net7.0\desafio7.dll
+C:\Users\disrct\Desktop\desafio7\bin\Debug\net7.0\desafio7.pdb
+C:\Users\disrct\Desktop\desafio7\obj\Debug\net7.0\desafio7.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\desafio7\obj\Debug\net7.0\desafio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\desafio7\obj\Debug\net7.0\desafio7.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\desafio7\obj\Debug\net7.0\desafio7.AssemblyInfo.cs
+C:\Users\disrct\Desktop\desafio7\obj\Debug\net7.0\desafio7.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\desafio7\obj\Debug\net7.0\desafio7.dll
+C:\Users\disrct\Desktop\desafio7\obj\Debug\net7.0\refint\desafio7.dll
+C:\Users\disrct\Desktop\desafio7\obj\Debug\net7.0\desafio7.pdb
+C:\Users\disrct\Desktop\desafio7\obj\Debug\net7.0\desafio7.genruntimeconfig.cache
+C:\Users\disrct\Desktop\desafio7\obj\Debug\net7.0\ref\desafio7.dll
