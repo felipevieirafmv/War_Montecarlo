@@ -8,7 +8,7 @@ int attackWin = 0;
 int defenseWin = 0;
 int quantAttack = 1_000;
 int quantDefense = 500;
-int quantRounds = 10_000_000;
+int quantRounds = 100_000;
 
 montecarlo(quantRounds);
 
